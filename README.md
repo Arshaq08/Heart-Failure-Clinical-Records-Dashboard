@@ -1,6 +1,4 @@
-# Heart-Failure-Clinical-Records-Dashboard
-An interactive dashboard analyzing heart failure clinical records of 5,000 patients. Provides insights into demographics, survival outcomes, and key lab results using Excel with filters, KPIs, and visualizations.
-# 🫀 Heart Failure Clinical Records Dashboard
+
 
 This project presents an **interactive dashboard** that analyzes the lab results and clinical records of **5,000 patients** who experienced heart failure during their follow-up period.  
 The dashboard provides meaningful insights into patient demographics, survival outcomes, and key medical indicators.
